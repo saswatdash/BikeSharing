@@ -24,12 +24,19 @@ Final Model Evaluation Result:
 
 ## Technologies Used
 Language - Python 3
+
 library - Numpy
+
 library - Pandas
+
 library - matplotlib
+
 library - seaborn
+
 library - sklearn
+
 library - statsmodel
+
 
 ## Acknowledgements
 This project is part of a case study from Upgrad for building a multiple linear regression model for the prediction of demand for shared bikes
