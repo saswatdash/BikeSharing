@@ -15,8 +15,11 @@ Saturday and Sunday most of the people avail bike rental service.
 Final Model Evaluation Result:
 
 -Train R square :83.7%
+
 -Train Adjusted R square :83.3%
+
 -Test R square :80.6%
+
 -Test Adjusted R square :79.4%
 
 ## Technologies Used
