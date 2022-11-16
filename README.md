@@ -27,13 +27,6 @@ Final Model Evaluation Result:
 
 -Test Adjusted R square :79.4%
 
-## Conclusions
-
-Bike booking were happening in 'fall' season followed by 'summer' & 'winter'. This indicates, season is a good predictor for the dependent variable.
-Maximum Bike booking happened over the months from May to September with a peak in June. This indicates, mnth has some trend for bookings and can be a good predictor for the dependent variable.
-Over 45% of the bike booking were happening during Clear weather followed by . This was followed by Mist weather with more than 37%. This indicates, weathersit does show some trendtowards the bike bookings and is a good predictor for the dependent variable.
-Saturday and Sunday most of the people avail bike rental service.
-
 ## Technologies Used
 Language - Python 3
 
@@ -49,6 +42,12 @@ library - sklearn
 
 library - statsmodel
 
+## Conclusions
+
+Bike booking were happening in 'fall' season followed by 'summer' & 'winter'. This indicates, season is a good predictor for the dependent variable.
+Maximum Bike booking happened over the months from May to September with a peak in June. This indicates, mnth has some trend for bookings and can be a good predictor for the dependent variable.
+Over 45% of the bike booking were happening during Clear weather followed by . This was followed by Mist weather with more than 37%. This indicates, weathersit does show some trendtowards the bike bookings and is a good predictor for the dependent variable.
+Saturday and Sunday most of the people avail bike rental service.
 
 ## Acknowledgements
 This project is part of a case study from Upgrad for building a multiple linear regression model for the prediction of demand for shared bikes
